@@ -31,4 +31,5 @@ if you are using replit then follow these steps:
 
 # contributing
 you can contributing with us by creating a template project using this [button](https://github.com/DodoGames7/discord-bot-token-reset/generate)
+
 second method: or you can fork the [original project](https://github.com/RiversideRocks/token-reset) thanks to RiversideRocks for creating it
