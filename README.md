@@ -4,6 +4,12 @@ A repo I post publicly leaked tokens on so they reset. Especially Bot Tokens tha
 **PROTIP: use .env file to hide your bot token or else i will ended up to reset it by leaking it on this repo to warn you**
 
 
+# why i am here?
+
+if you have been gotten a dm from discord's system sending you a link to this repo, that's because i reseted your discord bot token by leaking it on tokens.txt file,
+
+**REMEMBER!** never share your bot token to anyone, as well as refrain from making the token public on any of your public projects such as replit, glitch, etc, they could be used by anyone for bad stuff and more worse, this is why i made this repo to warn people about the risk of having their discord bot tokens leaked on the internet
+
 # how to make ur token private
 
 if you are using replit then follow these steps:
